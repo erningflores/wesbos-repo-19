@@ -1,0 +1,23 @@
+{
+  "name": "gum",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "script.js",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, *.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erningflores/wesbos-repo-19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erningflores/wesbos-repo-19/issues"
+  },
+  "homepage": "https://github.com/erningflores/wesbos-repo-19#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
